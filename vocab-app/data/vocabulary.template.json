@@ -1,0 +1,51 @@
+[
+  {
+    "id": "example-headword",
+    "headword": "example",
+    "alternate_forms": [
+      "examples"
+    ],
+    "part_of_speech": "noun",
+    "pronunciation": "",
+    "audio_url": "",
+    "primary_definition": "a sample entry you can replace",
+    "secondary_definitions": [],
+    "definition_status": "draft",
+    "simple_definition": "",
+    "example_sentences": [
+      {
+        "text": "Replace this example sentence with a natural one that uses example.",
+        "status": "draft"
+      }
+    ],
+    "cloze_sentences": [
+      {
+        "text": "Replace this _____ sentence with a natural one.",
+        "answer": "example",
+        "status": "draft"
+      }
+    ],
+    "synonyms": [],
+    "near_synonyms": [],
+    "antonyms": [],
+    "collocations": [],
+    "word_family": [
+      "examples"
+    ],
+    "etymology": "",
+    "register": "",
+    "usage_notes": "",
+    "common_confusions": [],
+    "mnemonic": "",
+    "tags": [
+      "template"
+    ],
+    "difficulty": 2,
+    "source_or_editor": "template",
+    "review_status": "draft",
+    "question_id": "",
+    "answer_role": "",
+    "compare_with": [],
+    "usage_choices": []
+  }
+]
